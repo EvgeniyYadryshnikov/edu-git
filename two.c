@@ -18,3 +18,4 @@ void main() {
 //Test rebase - 1
 //Test rebase - 2
 //Test rebase - 3
+//Test conflict - dev
