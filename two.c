@@ -5,3 +5,7 @@ void main() {
 }
 
 //NEW FOR PULL-REQUEST
+//Тренировка операции squash - 1
+//Тренировка операции squash - 2
+//Тренировка операции squash - 3
+//Тренировка операции squash - 4
