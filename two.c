@@ -15,3 +15,6 @@ void main() {
 //Тренировка операции squash - 8
 //Тренировка операции pick - 1
 //Тренировка операции pick - 2
+//Test rebase - 1
+//Test rebase - 2
+//Test rebase - 3
